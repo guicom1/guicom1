@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guicom1
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ethical hacking projects
 - 📫 How to reach me on discord guicom#0001
 
