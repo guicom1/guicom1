@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @El-hack-pro
+- 👋 Hi, I’m @guicom1
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me nothing
+- 💞️ I’m looking to collaborate on ethical hacking projects
+- 📫 How to reach me on discord guicom#0001
 
 <!---
 El-hack-pro/El-hack-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
